@@ -1,22 +1,22 @@
-public class newStudentInfo {
+public class newStudentinfo {
     public static void main(String[] args) {
-        String StudentName = Rahul;
+        String StudentName = "Kunal";
         int age = 22;
-        int College code =1200;
-        int Student Id = 101;
-        int mobile number = 9876543210;
-        double Annual Fees = 85.5;
-        double Percentage = 85.5;
-        Boolean placement Status = true;
-        Char Grade ='A';
-        System.out.println("Student  name: " + studentname);
-        System.out.println("Age: " + age);
-        System.out.println("College Code: " + 1200);
+        int College_code = 1200;
+        int Student_Id = 101;
+        long Mobile_number = 9876543210L;
+        double Annual_fees = 85.5;
+        float Percentage = 85.5f;
+        boolean Placement_status = true;
+        char Grade = 'A';
+        System.out.println("Student_Name: " + "Kunal");
+        System.out.println("Age: " + 22);
+        System.out.println("College code: " + 1200);
         System.out.println("Student Id: " + 101);
         System.out.println("Mobile number: ");
-        System.out.println("");
-        System.out.println("");
-
+        System.out.println("Annual fees: " + 85.5);
+        System.out.println("Percentage: " + 85.5);
+        System.out.println("Placement status: " + true);
 
     }
 }
