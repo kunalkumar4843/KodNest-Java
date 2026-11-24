@@ -17,6 +17,9 @@ public class ElementArray {
 
         for (int i = 0; i < 5; i++) {
             System.out.println(a[i]);
+            System.out.println("Element of array: " + name);
+            System.out.println("Total Element: " + total_element);
+Syst
         }
     }
 }

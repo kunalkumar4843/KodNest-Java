@@ -1,7 +1,7 @@
 public class newStudentinfo {
     public static void main(String[] args) {
-        String StudentName = "Kunal";
-        int age = 22;
+        String student_name = "Kunal";
+        int Age = 22;
         int College_code = 1200;
         int Student_Id = 101;
         long Mobile_number = 9876543210L;
