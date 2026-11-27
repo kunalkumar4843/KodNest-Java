@@ -24,6 +24,7 @@ public class ElectricityBillCalculator {
         // Calculate surcharge
         if (units > 0) {
             if (bill > 1000) {
+
                 surcharge = bill * 0.5;
             }
 
